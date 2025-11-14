@@ -1,0 +1,1 @@
+GIT_SSH_COMMAND="ssh -i $HOME/.ssh/id_ed25519.pub-o IdentitiesOnly=yes" git -C "/Users/oscar.chamat/repos/ai-sexy-secretary" push origin master
